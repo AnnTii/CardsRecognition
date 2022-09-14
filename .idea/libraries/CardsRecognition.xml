@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CardsRecognition">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CardsRecognition.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
